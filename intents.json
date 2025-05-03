@@ -1,0 +1,25 @@
+{"intents":
+[
+            {
+             "tag":"greetings",
+             "patterns": ["hello","hey","hi","good day","greetings","what's up?","how is it going"],
+             "responses":["hello","Welcome to food calorie","How can I help you today? Feel free to ask anything."]
+            },
+            {
+             "tag":"goodbye",
+             "patterns": ["cya","see you later","goodbye","have a good day","bye","cao","see ya"],
+             "responses":["have a nice day","goodbye"]
+            },
+            {
+             "tag":"age",
+             "patterns": ["how old","how old are you?","what is your age","how old are you","age?"],
+             "responses":["I get reborn after every compilation","hey!","my owners are averagely 20 years!"]
+            },
+            {
+             "tag":"apple",
+             "patterns": ["apple kallories?"],
+             "responses":["20 gram claories"]
+            }
+          
+]}
+        
